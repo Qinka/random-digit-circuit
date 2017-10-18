@@ -1,0 +1,16 @@
+.ise_project
+*.asy
+*.gise
+*.ncf
+*.sym
+*.ucf
+!io_site.ucf
+*.vho
+*.xco
+*.xise
+*.txt
+*.tcl
+*.xdc
+*.cgp
+*.log
+_xmsgs
